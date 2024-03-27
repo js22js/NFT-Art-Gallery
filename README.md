@@ -1,1 +1,5 @@
 # NFT-Art-Gallery
+
+Non-fungible tokens (NFTs) are a different type of blockchain based tokens. There are Plenty of NFT buying sites around the world,even some of the best wallets started to add NFT in their site ,which shows us the growth of the NFT Market and all the NFT selling pages have one thing in common bidding system. Bidding system is that if the product is added to the site it will
+get sold out in exactly 24 hrs and the person who did the final bid and have the highest bid price owns the NFT. Some consider this as a good thing because the bid price gets higher as the buyers show interest in that particular NFT but the main issue here is that all the NFT buyers only have access to certain amount of NFT which are available when they are entering the site. So to
+overcome this some NFT pages added Buy now option while a bidding running for the same NFT ,which still didn’t overcome the problem accessing only by certain buyers. So in this project there is no bidding system and you can buy the NFT that is unsold where the price is decided by the creator itself as per estimations alone.
